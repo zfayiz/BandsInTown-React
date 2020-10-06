@@ -10,4 +10,5 @@ Search for Artist --> API retrieves data --> Artist Data shown --> Show Events b
 <h2>Design</h2>
 The design was kept simple and minimal following suggested guidelines. The app follows a responsive layout for easy viewing on all screen sizes. Check out snapshots below!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![UI-Desktop](https://raw.githubusercontent.com/zfayiz/BandsInTown-React/main/my-app/UI%20screenshots/BandsInTown%20Snap.PNG)
+![UI-Mobile](https://raw.githubusercontent.com/zfayiz/BandsInTown-React/main/my-app/UI%20screenshots/BandsInTown%20Phone%20Snap.PNG)
