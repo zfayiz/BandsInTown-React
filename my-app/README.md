@@ -1,4 +1,4 @@
-##About the app
+<h1>About the app</h1>
 This is a test app built using React JS, that allows users to search for their favorite artists, get some of their information as well as see their upcoming event data.
 
 ###Architecture
