@@ -9,7 +9,7 @@ Search for Artist --> API retrieves data --> Artist Data shown --> Show Events b
 
 <h2>Design</h2>
 The design was kept simple and minimal following suggested guidelines. The app follows a responsive layout for easy viewing on all screen sizes. <br></br>
-Check out snapshots below!
+
 
 ![UI-Desktop](https://raw.githubusercontent.com/zfayiz/BandsInTown-React/main/my-app/UI%20screenshots/BandsInTown%20Snap.PNG) <br></br>
 
